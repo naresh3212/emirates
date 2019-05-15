@@ -28,7 +28,7 @@ SET time_zone = "+00:00";
 -- Table structure for table `slack_creds`
 --
 
-CREATE TABLE `slack_creds` (
+CREATE TABLE `slack_credsssss` (
   `id` int(11) NOT NULL,
   `company_id` int(11) DEFAULT NULL,
   `slack_client_id` varchar(255) DEFAULT NULL,
